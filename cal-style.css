@@ -1,0 +1,17 @@
+
+.calculator{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: cornsilk;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+button{
+    background-color: white;
+    font-size: medium;
+    font-weight: 400;
+    padding: 10 10 10 10;
+
+}
